@@ -1,18 +1,53 @@
-Generate a GitHub bio in Markdown for a software developer. 
-Include sections for:
+# 👋 Hi, I'm **hephzibah**!
 
-- Short intro with name, role, and location
-- Skills: languages, frameworks, tools
-- Highlight 2-3 key projects with links and tech stack
-- Fun personal tagline or motto
-- Optional emojis to make it visually appealing
-- Include badges for GitHub stats if possible
-- Tone: professional but friendly, with a creative touch
+**Role:** Software Developer  
+**Location:** Lagos, Nigeria 🇳🇬
 
-User Info:
-- Name: Adekoya Afolasadelawal
-- Location: Nigeria
-- Skills: JavaScript, TypeScript, TailwindCSS, Next.js, React, n8n, AI agents, UX/UI design
-- Projects: Portfolio website, AI video advert generator, Fast Food 3-click checkout app
-- Motto: "Rewriting the logic of the world one line of code at a time"
-- Links: Portfolio website, LinkedIn, Twitter
+---
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** Next.js, React, TailwindCSS
+- **Tools:** n8n, AI Agents, UX/UI Design
+
+---
+
+## 🚀 Key Projects
+
+- [**Portfolio Website**](#)  
+  _Tech Stack: Next.js, React, TailwindCSS_  
+  Showcases my work, skills, and journey as a developer.
+
+- [**AI Video Advert Generator**](#)  
+  _Tech Stack: JavaScript, AI agents_  
+  Create engaging ads powered by intelligent automation.
+
+- [**Fast Food 3-Click Checkout App (UI/UX)**](#)  
+  _Tech Stack: React, UX/UI design_  
+  Seamless ordering experience with innovative design.
+
+---
+
+## 🌈 Connect with Me
+
+- [Portfolio Website](#)
+- [LinkedIn](#)
+- [Twitter](#)
+
+---
+
+## 🤩 Motto
+
+> “Rewriting the logic of the world one line of code at a time.”
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1r4g3-code&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1r4g3-code&layout=compact&theme=radical)
+
+---
+
+### ✨ Let’s build something amazing together! 🚀
