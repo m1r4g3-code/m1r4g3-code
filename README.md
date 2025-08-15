@@ -4,11 +4,9 @@
   Focus: AI Automation, UX/UI, Frontend, LLM agents
 =========================== -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRwwfUwWwOso/giphy.gif" alt="coding animation" width="220"/>
-</p>
 
-<h1 align="center">Hi, I'm <span style="color:#31d71b;">Adekoya Afolasadelawal</span> 👋</h1>
+
+<h1 align="center">Hi, I'm <span style="color:#31d71b;">Hephzibah</span> 👋</h1>
 <p align="center">
   <em>Rewriting the logic of the world one line of code at a time</em>
 </p>
