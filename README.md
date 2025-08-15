@@ -1,91 +1,70 @@
-<!-- ===========================
-  GitHub Profile README
-  Author: Adekoya Afolasadelawal
-  Focus: AI Automation, UX/UI, Frontend, AI Agents
-=========================== -->
+<div align="center">
 
-<h1 align="center">
-  Hi, I'm <span style="background: linear-gradient(90deg,#31d71b,#06b6d4); -webkit-background-clip: text; color: transparent;">Adekoya Afolasadelawal</span> 👋
-</h1>
+# Hey, I’m **Hephzibah** 👋
 
-<p align="center">
-  <em>“Rewriting the logic of the world one line of code at a time”</em>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=31d71b&width=450&lines=Software+Developer;AI+Automation+%26+Agents;Frontend+%26+UX/UI+Designer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🌍 About Me
-- 📍 Location: Nigeria 🇳🇬  
-- 💼 Role: Software Developer | AI Automation & Agent Specialist  
-- 💡 Passionate about AI, automation, UX/UI, and scalable frontend experiences
+### 🚀 About Me
+
+- 🧠 Crafting **modern, responsive web apps** using **Next.js**, **React**, **TypeScript**, and **TailwindCSS**.  
+- 🤖 Building **AI agents** and **automating workflows** with **n8n** and custom LLM setups.  
+- 🎨 Designing **clean and intuitive UX/UI** that makes digital experiences enjoyable.  
+- 📊 Turning data into insights and **scalable solutions** that solve real problems.  
+- ⚡ Passionate about **AI, automation, and frontend innovation**.
 
 ---
 
-## 💻 Skills
+### 🛠 Tech Stack
 
-<p align="center">
-  <!-- Row 1 -->
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#F7DF1E; color:black; font-weight:bold;">
-    🟨 JavaScript
-  </span>
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#3178C6; color:white; font-weight:bold;">
-    🔷 TypeScript
-  </span>
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#61DAFB; color:black; font-weight:bold;">
-    ⚛️ React
-  </span>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" alt="TailwindCSS"/>
+</div>
 
-<p align="center">
-  <!-- Row 2 -->
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#000000; color:white; font-weight:bold;">
-    ⬛ Next.js
-  </span>
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#06B6D4; color:white; font-weight:bold;">
-    🌊 TailwindCSS
-  </span>
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#FF3C00; color:white; font-weight:bold;">
-    ⚙️ n8n
-  </span>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#FF4081; color:white; font-weight:bold;">
-    🤖 AI & LLM Agents
-  </span>
-  <span style="display:inline-block; margin:8px; padding:12px 20px; border-radius:12px; background-color:#10B981; color:white; font-weight:bold;">
-    🎨 UX/UI Design
-  </span>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="50" alt="n8n"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+</div>
 
 ---
 
-## 🚀 Key Projects
-<p align="center">
+### 🚀 Featured Projects
+
+<div align="center">
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Next.js%20%7C%20React%20%7C%20TailwindCSS-31d71b?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Next.js%20|%20React%20|%20TailwindCSS-31d71b?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/yourrepo" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Video%20Advert-n8n%20%7C%20AI%20Agents%20%7C%20JS-FF4081?style=flat-square&logo=github&logoColor=white" alt="AI Video Generator"/>
+    <img src="https://img.shields.io/badge/AI%20Video%20Advert-n8n%20|%20AI%20Agents-FF4081?style=flat-square&logo=github&logoColor=white" alt="AI Video Generator"/>
   </a>
   <a href="https://yourdemo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Fast%20Food%203-Click-React%20%7C%20TailwindCSS-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Fast Food App"/>
+    <img src="https://img.shields.io/badge/Fast%20Food%203-Click-React%20|%20TailwindCSS-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Fast Food App"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
+### 📈 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</div>
 
 ---
 
-## ✨ Connect with Me
-<p align="center">
+### 🔗 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -95,4 +74,9 @@
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-31d71b?style=flat-square&logo=github&logoColor=white"/>
   </a>
-</p>
+</div>
+
+---
+
+### 😎Cipher name is
+**mirage**.
