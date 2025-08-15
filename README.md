@@ -1,52 +1,67 @@
-# 👋 Hi, I'm **hephzibah**!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/ai-coding.gif" alt="AI Coding Animation" width="300"/>
+</p>
 
-**Role:** Software Developer  
-**Location:** Lagos, Nigeria 🇳🇬
+# 👋 Hi, I'm **Hephzibah**!
+
+**Role:** Software Developer | AI Automation & AI Agent Specialist | UX/UI Designer | Cyber-Security
+**Location:** Nigeria 🇳🇬
+
+> *“Rewriting the logic of the world one line of code at a time.”* ✨🤖
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** Next.js, React, TailwindCSS
-- **Tools:** n8n, AI Agents, UX/UI Design
+<p align="center">
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#06b6d4,#3b82f6);color:white;font-weight:600;">JavaScript</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#3178c6,#0284c7);color:white;font-weight:600;">TypeScript</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#61dafb,#21a1f1);color:black;font-weight:600;">React</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#000000,#434343);color:white;font-weight:600;">Next.js</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#06b6d4,#3b82f6);color:white;font-weight:600;">TailwindCSS</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#ff3c00,#f97316);color:white;font-weight:600;">n8n</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#ff4081,#f43f5e);color:white;font-weight:600;">AI Agents</span>
+  <span style="display:inline-block;margin:5px;padding:8px 15px;border-radius:25px;background:linear-gradient(135deg,#fc5c7d,#6a82fb);color:white;font-weight:600;">UX/UI Design</span>
+</p>
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-- [**Portfolio Website**](#)  
-  _Tech Stack: Next.js, React, TailwindCSS_  
-  Showcases my work, skills, and journey as a developer.
+<div align="center">
 
-- [**AI Video Advert Generator**](#)  
-  _Tech Stack: JavaScript, AI agents_  
-  Create engaging ads powered by intelligent automation.
+**[Portfolio Website](#)**  
+*Next.js, React, TailwindCSS*  
+Interactive portfolio with AI automation demos.  
 
-- [**Fast Food 3-Click Checkout App (UI/UX)**](#)  
-  _Tech Stack: React, UX/UI design_  
-  Seamless ordering experience with innovative design.
+**[AI Video Advert Generator](#)**  
+*JavaScript, AI Agents*  
+Generates intelligent video ads automatically.  
+
+**[Fast Food 3-Click Checkout App](#)**  
+*React, UX/UI Design*  
+Seamless and fast checkout experience.
+
+</div>
 
 ---
 
 ## 🌈 Connect with Me
 
-- [Portfolio Website](#)
-- [LinkedIn](#)
-- [Twitter](#)
-
----
-
-## 🤩 Motto
-
-> “Rewriting the logic of the world one line of code at a time.”
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1r4g3-code&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1r4g3-code&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
 
