@@ -10,20 +10,11 @@
 
 <br/>
 
-```
-I don't just build AI systems for clients.
-I run my entire operation on systems I built myself.
-```
+<img src="quote.svg" width="100%" />
 
 <img src="divider.svg" width="100%" />
 
-## What I Build
-
-**AI Automation** — n8n orchestration, Claude/OpenAI agents, multi-step pipelines, CRM automation, webhook-driven workflows
-
-**Full-Stack Software** — Next.js 14, React 19, TypeScript, Supabase, Firebase, Django, FastAPI — shipped and deployed, not just prototyped
-
-**AI Operating Systems** — hephzibah-os runs my outreach. upwork-os runs my freelancing. I build frameworks, not just features.
+<img src="what-i-build.svg" width="100%" />
 
 <img src="divider.svg" width="100%" />
 
@@ -72,14 +63,14 @@ I run my entire operation on systems I built myself.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m1r4g3-code&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&icon_color=E8FF3A&text_color=FAFAFA&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1r4g3-code&layout=compact&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&text_color=FAFAFA&hide_border=false" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=m1r4g3-code&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&icon_color=E8FF3A&text_color=DCD2BC&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1r4g3-code&layout=compact&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&text_color=DCD2BC&hide_border=false" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=m1r4g3-code&theme=dark&background=0A0A0A&border=E8FF3A&stroke=E8FF3A&ring=E8FF3A&fire=E8FF3A&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=E8FF3A&sideLabels=E8FF3A&dates=555555" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m1r4g3-code&theme=dark&background=0A0A0A&border=E8FF3A&stroke=E8FF3A&ring=E8FF3A&fire=E8FF3A&currStreakNum=DCD2BC&sideNums=DCD2BC&currStreakLabel=E8FF3A&sideLabels=E8FF3A&dates=555555" height="170" />
 
 </div>
 
