@@ -1,82 +1,96 @@
 <div align="center">
 
-# Hey, I’m **Hephzibah** 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=200&section=header&text=Emmanuel%20Adekoya&fontSize=46&fontColor=0A0A0A&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20%26%20Software%20Engineer&descAlignY=58&descSize=20&descColor=0A0A0A" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=31d71b&width=450&lines=Software+Developer;AI+Automation+%26+Agents;Frontend+%26+UX/UI+Designer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=E8FF3A&background=00000000&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Software+Engineer;n8n+%C2%B7+Claude+API+%C2%B7+TypeScript+%C2%B7+Next.js;Building+systems+that+run+while+you+work." alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+```
+I don't just build AI systems for clients.
+I run my entire operation on systems I built myself.
+```
 
-- 🧠 Crafting **modern, responsive web apps** using **Next.js**, **React**, **TypeScript**, and **TailwindCSS**.  
-- 🤖 Building **AI agents** and **automating workflows** with **n8n** and custom LLM setups.  
-- 🎨 Designing **clean and intuitive UX/UI** that makes digital experiences enjoyable.  
-- 📊 Turning data into insights and **scalable solutions** that solve real problems.  
-- ⚡ Passionate about **AI, automation, and frontend innovation**.
+<br/>
 
----
+## What I Build
 
-### 🛠 Tech Stack
+**AI Automation** — n8n orchestration, Claude/OpenAI agents, multi-step pipelines, CRM automation, webhook-driven workflows
+
+**Full-Stack Software** — Next.js 14, React 19, TypeScript, Supabase, Firebase — shipped and deployed, not just prototyped
+
+**AI Operating Systems** — hephzibah-os runs my outreach. upwork-os runs my freelancing. I build frameworks, not just features.
+
+<br/>
+
+## Active Builds
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="50" alt="TailwindCSS"/>
+
+| Project | What it is | Live |
+|---|---|---|
+| [hephzibah-os](https://github.com/m1r4g3-code/hephzibah-os) | AI cold outreach intelligence — lead research, call coaching, script generation | Active |
+| [upwork-os](https://github.com/m1r4g3-code/upwork-os) | Claude Code-powered Upwork operating system | Active |
+| [noryx-studio](https://github.com/m1r4g3-code/noryx-studio) | Full-stack barbershop booking + admin dashboard | [Live](https://noryx-studio.vercel.app) |
+| [Distill](https://github.com/m1r4g3-code/Distill) | URL to clean structured JSON for AI pipelines and RAG | [Live API](https://distill.up.railway.app) |
+| [yct-exam-nav-system](https://github.com/m1r4g3-code/yct-exam-nav-system) | Exam timetable generator — DSatur graph coloring + Dijkstra | Deployed |
+
+</div>
+
+<br/>
+
+## Stack
+
+<div align="left">
+
+![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=E8FF3A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E8FF3A)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=E8FF3A)
+![Claude API](https://img.shields.io/badge/Claude_API-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=E8FF3A)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=E8FF3A)
+![Next.js](https://img.shields.io/badge/Next.js_14-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=E8FF3A)
+![React](https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=E8FF3A)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=E8FF3A)
+![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=E8FF3A)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=E8FF3A)
+![HeyGen](https://img.shields.io/badge/HeyGen-0A0A0A?style=for-the-badge&logoColor=E8FF3A)
+![Make.com](https://img.shields.io/badge/Make.com-0A0A0A?style=for-the-badge&logo=make&logoColor=E8FF3A)
+![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=E8FF3A)
+![Playwright](https://img.shields.io/badge/Playwright-0A0A0A?style=for-the-badge&logo=playwright&logoColor=E8FF3A)
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=m1r4g3-code&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&icon_color=E8FF3A&text_color=FAFAFA&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1r4g3-code&layout=compact&theme=dark&bg_color=0A0A0A&border_color=E8FF3A&title_color=E8FF3A&text_color=FAFAFA&hide_border=false" height="170" />
+
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="50" alt="n8n"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m1r4g3-code&theme=dark&background=0A0A0A&border=E8FF3A&stroke=E8FF3A&ring=E8FF3A&fire=E8FF3A&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=E8FF3A&sideLabels=E8FF3A&dates=888888" height="170" />
+
 </div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## Connect
 
 <div align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Next.js%20|%20React%20|%20TailwindCSS-31d71b?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/yourrepo" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Video%20Advert-n8n%20|%20AI%20Agents-FF4081?style=flat-square&logo=github&logoColor=white" alt="AI Video Generator"/>
-  </a>
-  <a href="https://yourdemo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Fast%20Food%203-Click-React%20|%20TailwindCSS-06B6D4?style=flat-square&logo=github&logoColor=white" alt="Fast Food App"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E8FF3A)](https://www.linkedin.com/in/hephzibah-ifeoluwa-2ab82b2b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8FF3A?style=for-the-badge&logoColor=0A0A0A)](https://v0-portfolio-website-plan-indol.vercel.app)
+[![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=E8FF3A)](https://www.upwork.com/freelancers/~011b48d2eabbfa6361)
+
 </div>
 
----
+<br/>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-### 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-31d71b?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-### 😎Cipher name is
-**mirage**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=120&section=footer" width="100%" />
