@@ -1,0 +1,24 @@
+<svg width="1200" height="280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#0D1117"/>
+
+  <!-- Section heading -->
+  <text x="0" y="42" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="28" fill="#DCD2BC" letter-spacing="-0.5">What I Build</text>
+
+  <!-- Lemon underline -->
+  <rect x="0" y="52" width="140" height="2" fill="#E8FF3A" opacity="0.7"/>
+
+  <!-- Row 1 -->
+  <rect x="0" y="78" width="3" height="52" fill="#E8FF3A" opacity="0.5"/>
+  <text x="16" y="98" font-family="Arial, sans-serif" font-weight="700" font-size="15" fill="#E8FF3A">AI Automation</text>
+  <text x="16" y="120" font-family="Arial, sans-serif" font-size="14" fill="#DCD2BC">n8n orchestration · Claude / OpenAI agents · multi-step pipelines · CRM automation · webhook-driven workflows</text>
+
+  <!-- Row 2 -->
+  <rect x="0" y="148" width="3" height="52" fill="#E8FF3A" opacity="0.5"/>
+  <text x="16" y="168" font-family="Arial, sans-serif" font-weight="700" font-size="15" fill="#E8FF3A">Full-Stack Software</text>
+  <text x="16" y="190" font-family="Arial, sans-serif" font-size="14" fill="#DCD2BC">Next.js 14 · React 19 · TypeScript · Supabase · Firebase · Django · FastAPI — shipped and deployed, not just prototyped</text>
+
+  <!-- Row 3 -->
+  <rect x="0" y="218" width="3" height="52" fill="#E8FF3A" opacity="0.5"/>
+  <text x="16" y="238" font-family="Arial, sans-serif" font-weight="700" font-size="15" fill="#E8FF3A">AI Operating Systems</text>
+  <text x="16" y="260" font-family="Arial, sans-serif" font-size="14" fill="#DCD2BC">hephzibah-os runs my outreach. upwork-os runs my freelancing. I build frameworks, not just features.</text>
+</svg>
