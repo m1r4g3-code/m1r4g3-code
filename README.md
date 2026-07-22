@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hephzibah Ifeoluwa — AI Automation & Software Engineer" />
+<img src="banner.gif" width="100%" alt="Hephzibah Ifeoluwa — AI Automation & Software Engineer" />
 
 <br/>
 
