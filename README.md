@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Emmanuel Adekoya — AI Automation & Software Engineer" />
+<img src="banner.png" width="100%" alt="Hephzibah Ifeoluwa — AI Automation & Software Engineer" />
 
 <br/>
 
@@ -15,7 +15,7 @@ I don't just build AI systems for clients.
 I run my entire operation on systems I built myself.
 ```
 
-<br/>
+<img src="divider.svg" width="100%" />
 
 ## What I Build
 
@@ -25,7 +25,7 @@ I run my entire operation on systems I built myself.
 
 **AI Operating Systems** — hephzibah-os runs my outreach. upwork-os runs my freelancing. I build frameworks, not just features.
 
-<br/>
+<img src="divider.svg" width="100%" />
 
 ## Active Builds
 
@@ -41,7 +41,7 @@ I run my entire operation on systems I built myself.
 
 </div>
 
-<br/>
+<img src="divider.svg" width="100%" />
 
 ## Stack
 
@@ -66,7 +66,7 @@ I run my entire operation on systems I built myself.
 
 </div>
 
-<br/>
+<img src="divider.svg" width="100%" />
 
 ## GitHub Stats
 
@@ -83,7 +83,7 @@ I run my entire operation on systems I built myself.
 
 </div>
 
-<br/>
+<img src="divider.svg" width="100%" />
 
 ## Connect
 
@@ -92,9 +92,5 @@ I run my entire operation on systems I built myself.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E8FF3A)](https://www.linkedin.com/in/hephzibah-ifeoluwa-2ab82b2b7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E8FF3A?style=for-the-badge&logoColor=0A0A0A)](https://v0-portfolio-website-plan-indol.vercel.app)
 [![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=E8FF3A)](https://www.upwork.com/freelancers/~011b48d2eabbfa6361)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=100&section=footer&reversal=false" width="100%" />
 
 </div>
