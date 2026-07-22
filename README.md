@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=200&section=header&text=Emmanuel%20Adekoya&fontSize=46&fontColor=0A0A0A&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20%26%20Software%20Engineer&descAlignY=58&descSize=20&descColor=0A0A0A" width="100%" />
+<img src="banner.svg" width="100%" alt="Emmanuel Adekoya — AI Automation & Software Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=E8FF3A&background=00000000&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Software+Engineer;n8n+%C2%B7+Claude+API+%C2%B7+TypeScript+%C2%B7+Next.js;Building+systems+that+run+while+you+work." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=E8FF3A&background=00000000&center=true&vCenter=true&width=620&lines=Building+systems+that+run+while+you+work.;n8n+%C2%B7+Claude+API+%C2%B7+TypeScript+%C2%B7+Next.js;AI+agents%2C+automation+pipelines%2C+full-stack+apps.;Lagos%2C+Nigeria+%E2%86%92+global+clients." alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +21,7 @@ I run my entire operation on systems I built myself.
 
 **AI Automation** — n8n orchestration, Claude/OpenAI agents, multi-step pipelines, CRM automation, webhook-driven workflows
 
-**Full-Stack Software** — Next.js 14, React 19, TypeScript, Supabase, Firebase — shipped and deployed, not just prototyped
+**Full-Stack Software** — Next.js 14, React 19, TypeScript, Supabase, Firebase, Django, FastAPI — shipped and deployed, not just prototyped
 
 **AI Operating Systems** — hephzibah-os runs my outreach. upwork-os runs my freelancing. I build frameworks, not just features.
 
@@ -33,8 +35,8 @@ I run my entire operation on systems I built myself.
 |---|---|---|
 | [hephzibah-os](https://github.com/m1r4g3-code/hephzibah-os) | AI cold outreach intelligence — lead research, call coaching, script generation | Active |
 | [upwork-os](https://github.com/m1r4g3-code/upwork-os) | Claude Code-powered Upwork operating system | Active |
-| [noryx-studio](https://github.com/m1r4g3-code/noryx-studio) | Full-stack barbershop booking + admin dashboard | [Live](https://noryx-studio.vercel.app) |
-| [Distill](https://github.com/m1r4g3-code/Distill) | URL to clean structured JSON for AI pipelines and RAG | [Live API](https://distill.up.railway.app) |
+| [noryx-studio](https://github.com/m1r4g3-code/noryx-studio) | Full-stack barbershop booking + admin dashboard | Live |
+| [Distill](https://github.com/m1r4g3-code/Distill) | URL to clean structured JSON for AI pipelines and RAG | Live API |
 | [yct-exam-nav-system](https://github.com/m1r4g3-code/yct-exam-nav-system) | Exam timetable generator — DSatur graph coloring + Dijkstra | Deployed |
 
 </div>
@@ -52,6 +54,8 @@ I run my entire operation on systems I built myself.
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai&logoColor=E8FF3A)
 ![Next.js](https://img.shields.io/badge/Next.js_14-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=E8FF3A)
 ![React](https://img.shields.io/badge/React_19-0A0A0A?style=for-the-badge&logo=react&logoColor=E8FF3A)
+![Django](https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=E8FF3A)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=E8FF3A)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=E8FF3A)
 ![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=E8FF3A)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=E8FF3A)
@@ -75,7 +79,7 @@ I run my entire operation on systems I built myself.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=m1r4g3-code&theme=dark&background=0A0A0A&border=E8FF3A&stroke=E8FF3A&ring=E8FF3A&fire=E8FF3A&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=E8FF3A&sideLabels=E8FF3A&dates=888888" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m1r4g3-code&theme=dark&background=0A0A0A&border=E8FF3A&stroke=E8FF3A&ring=E8FF3A&fire=E8FF3A&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=E8FF3A&sideLabels=E8FF3A&dates=555555" height="170" />
 
 </div>
 
@@ -89,8 +93,8 @@ I run my entire operation on systems I built myself.
 [![Portfolio](https://img.shields.io/badge/Portfolio-E8FF3A?style=for-the-badge&logoColor=0A0A0A)](https://v0-portfolio-website-plan-indol.vercel.app)
 [![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=E8FF3A)](https://www.upwork.com/freelancers/~011b48d2eabbfa6361)
 
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=100&section=footer&reversal=false" width="100%" />
+
+</div>
