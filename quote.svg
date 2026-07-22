@@ -1,0 +1,13 @@
+<svg width="1200" height="130" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="130" fill="#0D1117" rx="6"/>
+  <rect x="0" y="0" width="4" height="130" fill="#E8FF3A" rx="2"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#1a1f27"/>
+  <rect x="0" y="129" width="1200" height="1" fill="#1a1f27"/>
+  <!-- prompt dot -->
+  <text x="28" y="52" font-family="'Courier New', Courier, monospace" font-size="15" fill="#E8FF3A" opacity="0.5">▸</text>
+  <text x="48" y="52" font-family="'Courier New', Courier, monospace" font-size="15" fill="#DCD2BC">I don't just build AI systems for clients.</text>
+  <text x="28" y="84" font-family="'Courier New', Courier, monospace" font-size="15" fill="#E8FF3A" opacity="0.5">▸</text>
+  <text x="48" y="84" font-family="'Courier New', Courier, monospace" font-size="15" fill="#DCD2BC">I run my entire operation on systems I built myself.</text>
+  <!-- blinking cursor -->
+  <text x="48" y="112" font-family="'Courier New', Courier, monospace" font-size="15" fill="#E8FF3A" opacity="0.7">█</text>
+</svg>
