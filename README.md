@@ -33,11 +33,11 @@ I run my entire operation on systems I built myself.
 
 | Project | What it is | Live |
 |---|---|---|
-| [hephzibah-os](https://github.com/m1r4g3-code/hephzibah-os) | AI cold outreach intelligence — lead research, call coaching, script generation | Active |
-| [upwork-os](https://github.com/m1r4g3-code/upwork-os) | Claude Code-powered Upwork operating system | Active |
-| [noryx-studio](https://github.com/m1r4g3-code/noryx-studio) | Full-stack barbershop booking + admin dashboard | Live |
-| [Distill](https://github.com/m1r4g3-code/Distill) | URL to clean structured JSON for AI pipelines and RAG | Live API |
-| [yct-exam-nav-system](https://github.com/m1r4g3-code/yct-exam-nav-system) | Exam timetable generator — DSatur graph coloring + Dijkstra | Deployed |
+| <img src="https://img.shields.io/badge/-%230A0A0A?style=flat-square&logo=anthropic&logoColor=E8FF3A" height="18"/> [hephzibah-os](https://github.com/m1r4g3-code/hephzibah-os) | AI cold outreach intelligence — lead research, call coaching, script generation | Active |
+| <img src="https://img.shields.io/badge/-%230A0A0A?style=flat-square&logo=anthropic&logoColor=E8FF3A" height="18"/> [upwork-os](https://github.com/m1r4g3-code/upwork-os) | Claude Code-powered Upwork operating system | Active |
+| <img src="https://img.shields.io/badge/-%230A0A0A?style=flat-square&logo=nextdotjs&logoColor=E8FF3A" height="18"/> [noryx-studio](https://github.com/m1r4g3-code/noryx-studio) | Full-stack barbershop booking + admin dashboard | Live |
+| <img src="https://img.shields.io/badge/-%230A0A0A?style=flat-square&logo=typescript&logoColor=E8FF3A" height="18"/> [Distill](https://github.com/m1r4g3-code/Distill) | URL to clean structured JSON for AI pipelines and RAG | Live API |
+| <img src="https://img.shields.io/badge/-%230A0A0A?style=flat-square&logo=typescript&logoColor=E8FF3A" height="18"/> [yct-exam-nav-system](https://github.com/m1r4g3-code/yct-exam-nav-system) | Exam timetable generator — DSatur graph coloring + Dijkstra | Deployed |
 
 </div>
 
@@ -94,3 +94,5 @@ I run my entire operation on systems I built myself.
 [![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=E8FF3A)](https://www.upwork.com/freelancers/~011b48d2eabbfa6361)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8FF3A&height=120&section=footer" width="100%" />
