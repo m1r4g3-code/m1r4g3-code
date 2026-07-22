@@ -1,0 +1,35 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="200" fill="#0A0A0A"/>
+
+  <!-- Subtle grid -->
+  <defs>
+    <pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#E8FF3A" stroke-width="0.25" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="200" fill="url(#g)"/>
+
+  <!-- Glow circles bottom right -->
+  <circle cx="820" cy="190" r="160" fill="#E8FF3A" opacity="0.04"/>
+  <circle cx="820" cy="190" r="100" fill="#E8FF3A" opacity="0.05"/>
+  <circle cx="820" cy="190" r="50" fill="#E8FF3A" opacity="0.06"/>
+
+  <!-- Left lemon bar -->
+  <rect x="0" y="0" width="5" height="200" fill="#E8FF3A"/>
+
+  <!-- Tag — top left -->
+  <text x="28" y="46" font-family="Courier New, monospace" font-size="12" fill="#E8FF3A" opacity="0.7" letter-spacing="3">m1r4g3-code</text>
+
+  <!-- Name -->
+  <text x="26" y="112" font-family="Arial Black, Arial, sans-serif" font-size="52" font-weight="900" fill="#FAFAFA" letter-spacing="-1.5">Emmanuel Adekoya</text>
+
+  <!-- Role -->
+  <text x="28" y="148" font-family="Courier New, monospace" font-size="19" fill="#E8FF3A" letter-spacing="1.5">AI Automation &amp; Software Engineer</text>
+
+  <!-- Stack line -->
+  <text x="30" y="175" font-family="Courier New, monospace" font-size="12" fill="#555555" letter-spacing="2">n8n  ·  Claude API  ·  TypeScript  ·  Next.js  ·  Lagos, NG</text>
+
+  <!-- Bottom lemon line -->
+  <rect x="0" y="194" width="900" height="6" fill="#E8FF3A" opacity="0.7"/>
+</svg>
