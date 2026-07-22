@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=E8FF3A&background=00000000&center=true&vCenter=true&width=620&lines=Building+systems+that+run+while+you+work.;n8n+%C2%B7+Claude+API+%C2%B7+TypeScript+%C2%B7+Next.js;AI+agents%2C+automation+pipelines%2C+full-stack+apps.;Lagos%2C+Nigeria+%E2%86%92+global+clients." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=E8FF3A&background=00000000&center=true&vCenter=true&width=680&lines=Building+systems+that+run+while+you+work.;n8n+%C2%B7+Claude+API+%C2%B7+TypeScript+%C2%B7+Next.js;AI+agents%2C+automation+pipelines%2C+full-stack+apps.;Lagos%2C+Nigeria+%E2%86%92+global+clients." alt="Typing SVG" />
 
 </div>
 
